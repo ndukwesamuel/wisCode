@@ -1,0 +1,35 @@
+div{
+    /* background-color: red; */
+
+    font-size: 1rem;
+}
+
+
+.Home__page{
+    height: 50rem;
+    background-image: url(../img/bac.jpg);
+}
+
+img{
+    width: 40%;
+}
+
+
+.home_section_1{
+    display: flex;
+    justify-content: space-around;
+}
+
+form{
+    background-color: red;
+    padding-top: 1rem;
+    margin: 4rem;
+}
+
+form input{
+    width: 20rem;
+    height: 2rem;
+    display: block;
+    border-radius: 1rem;
+    border: none;
+}
